@@ -46,3 +46,13 @@ p{
     align-items: flex-end;
     justify-content: flex-end;
 }
+
+button{
+    background-color: #ffe6e6;
+    cursor: pointer;
+    border: 1px solid pink;
+    border-radius: 5px;
+    height: 25px;
+    width: auto;
+    color: #ff6b6b;
+}
